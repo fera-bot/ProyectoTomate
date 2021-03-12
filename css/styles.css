@@ -54,6 +54,15 @@ body {
     transform-style: preserve-3d;
 }
 
+a.btnlearn {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: initial;
+    text-align: center;
+    color: white;
+}
 
 .btnlearn
 {
@@ -102,4 +111,9 @@ body {
     font-size: small;
     margin-top: 9%;
     width: 80%;
+}
+
+.readmore
+{
+    text-align: justify
 }
