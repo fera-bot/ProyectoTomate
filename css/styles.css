@@ -40,18 +40,12 @@ body {
     width: 100%;
     padding: 12px 24px;
     background-color: white;
-    transition: transform 250ms ease-in-out;
     font-size: 14px;
     line-height: 18px;
     color: #575756;
-    background-repeat: no-repeat;
-    background-size: 18px 18px;
-    background-position: 95% center;
     border-radius: 50px;
     border: 1px solid #575756;
-    transition: all 250ms ease-in-out;
-    backface-visibility: hidden;
-    transform-style: preserve-3d;
+    
 }
 
 a.btnlearn {
@@ -69,18 +63,11 @@ a.btnlearn {
     width: 50%;
     padding: 12px 24px;
     background-color:#B41907;
-    transition: transform 250ms ease-in-out;
     font-size: 14px;
     line-height: 18px;
     color: white;
-    background-repeat: no-repeat;
-    background-size: 18px 18px;
-    background-position: 95% center;
     border-radius: 50px;
     border: none;
-    transition: all 250ms ease-in-out;
-    backface-visibility: hidden;
-    transform-style: preserve-3d;
 }
 
 .btnlearn:hover
